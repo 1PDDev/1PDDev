@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 **PLD AntiDump** – Full protection against dumping tools
+- 🔐 **PD AntiDump** – Full protection against dumping tools
 - 🤖 **Discord Bots** – Tickets, Priority Manager, and more
 
 ---
