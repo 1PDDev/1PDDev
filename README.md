@@ -5,14 +5,14 @@
 
 <p align="center">
   👋 Welcome to the official GitHub of <b>Portal Development</b><br>
-  ⚙️ Premium Scripts & Tools for FiveM & Discord<br>
-  🌐 <a href="https://portal.dev">portal.dev</a> | 💬 <a href="https://discord.gg/pld">Join our Discord</a>
+  ⚙️ Premium Scripts & Discord<br>
+  🌐 <a href="https://portal.dev">portal.dev</a> | 💬 <a href="https://discord.gg/pddev">Join our Discord</a>
 </p>
 
 ---
 
 ## 🧠 About Us
-> Portal Development is a leading provider of custom systems for roleplay, matchmaking, moderation, queue systems, NUI dashboards, and Discord bots. We build secure and innovative solutions for your server.
+> Portal Development is a leading provider of custom systems for roleplay, moderation, queue systems, and Discord bots. We build secure and innovative solutions for your server.
 
 ---
 
@@ -35,10 +35,10 @@
 ---
 
 ## 📞 Contact
-- 🌐 Website: [portal.dev](https://portal.dev)
-- 💬 Discord: [discord.gg/pld](https://discord.gg/pld)
+- 🌐 Website: [portal.dev](https://portal-development-webshop.tebex.io/)
+- 💬 Discord: [discord.gg/pld](https://discord.gg/pddev)
 - 📩 Email: support@portal.dev
 
 ---
 
-> 🧊 Made with ❤️ by the PLD Team | Powered by Passion 🔥
+> 🧊 Made with ❤️ by the Portal Team | Powered by Portal Dev 🔥
