@@ -37,7 +37,6 @@
 ## 📞 Contact
 - 🌐 Website: [portal.dev](https://portal-development-webshop.tebex.io/)
 - 💬 Discord: [discord.gg/pld](https://discord.gg/pddev)
-- 📩 Email: support@portal.dev
 
 ---
 
